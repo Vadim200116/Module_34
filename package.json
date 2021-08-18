@@ -1,0 +1,22 @@
+{
+  "name": "Module_34",
+  "version": "1.0.0",
+  "description": "Module_34",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serv": "static build"
+  },
+  "keywords": [],
+  "author": "Vadim",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "node-static": "^0.7.11",
+    "pug": "^3.0.2",
+    "pug-loader": "^2.4.0",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
